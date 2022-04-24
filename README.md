@@ -6,9 +6,9 @@ Group project of 'Sistemi di Elaborazione e Trasmissione dell'Informazione'
 
 ---
 Compile and execute
+
 <code>
-  make all
-  
+  make all <br /><br />
   ./microbash
 </code>
 
